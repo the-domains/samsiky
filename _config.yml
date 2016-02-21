@@ -1,4 +1,20 @@
-analytics: {}
+name: Samsiky
+favicon: null
+layout_spectrum: 0.374155
+typography_spectrum: 0.735642
+title: Temporary Reality
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -8,11 +24,9 @@ color:
     - '#DD403A'
   brandStrength: 0.263514
   lightness: 0.633446
-  rhythmicContrast: 0.283784
   saturation: 0.391047
-cta: {}
-layout_spectrum: 0.374155
-name: Samsiky
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.735642
+  rhythmicContrast: 0.283784
+purpose:
+  - name: null
+    item: null
+    url: null
